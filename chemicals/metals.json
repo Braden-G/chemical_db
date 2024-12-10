@@ -1,0 +1,59 @@
+[
+    {
+        "_id": "compound001",
+        "name": "Iron(III) Oxide",
+        "formula": "Fe2O3",
+        "molecular_weight": 159.69,
+        "properties": {
+            "melting_point": "1565\u00b0C",
+            "density": 5.24,
+            "color": "Red-brown"
+        },
+        "structure": {
+            "smiles": "O=[Fe]O[Fe]=O",
+            "inchi": "InChI=1S/Fe2O3/c3-1-4-2"
+        },
+        "applications": [
+            "Pigment",
+            "Iron source for steelmaking"
+        ]
+    },
+    {
+        "_id": "compound002",
+        "name": "Copper(II) Sulfate",
+        "formula": "CuSO4",
+        "molecular_weight": 159.61,
+        "properties": {
+            "melting_point": "110\u00b0C (decomposes)",
+            "density": 3.6,
+            "color": "Blue (hydrated)"
+        },
+        "structure": {
+            "smiles": "[Cu+2].[O-]S(=O)(=O)[O-]",
+            "inchi": "InChI=1S/Cu.H2O4S/c;1-5(2,3)4/h;(H2,1,2,3,4)/q+2;/p-2"
+        },
+        "applications": [
+            "Fungicide",
+            "Electroplating"
+        ]
+    },
+    {
+        "_id": "compound003",
+        "name": "Aluminum Oxide",
+        "formula": "Al2O3",
+        "molecular_weight": 101.96,
+        "properties": {
+            "melting_point": "2072\u00b0C",
+            "density": 3.95,
+            "color": "White"
+        },
+        "structure": {
+            "smiles": "O=[Al]O[Al]=O",
+            "inchi": "InChI=1S/Al2O3/c3-1-4-2"
+        },
+        "applications": [
+            "Abrasive",
+            "Catalyst support"
+        ]
+    }
+]

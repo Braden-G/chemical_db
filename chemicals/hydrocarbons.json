@@ -1,0 +1,86 @@
+[
+    {
+        "_id": "molecule001",
+        "name": "Methane",
+        "formula": "CH4",
+        "molecular_weight": 16.04,
+        "properties": {
+            "boiling_point": "-161.5\u00b0C",
+            "melting_point": "-182.5\u00b0C",
+            "density": "0.656 g/L"
+        },
+        "structure": {
+            "smile": "C",
+            "inchi": "InChI=1S/CH4/h1H4"
+        },
+        "vector_representation": [
+            0.12,
+            0.34,
+            0.56,
+            0.78
+        ],
+        "reactions": [
+            {
+                "reaction_id": "reaction001",
+                "role": "reactant",
+                "description": "Combustion of methane"
+            }
+        ]
+    },
+    {
+        "_id": "molecule002",
+        "name": "Ethane",
+        "formula": "C2H6",
+        "molecular_weight": 30.07,
+        "properties": {
+            "boiling_point": "-88.6\u00b0C",
+            "melting_point": "-182.8\u00b0C",
+            "density": "1.356 g/L"
+        },
+        "structure": {
+            "smile": "CC",
+            "inchi": "InChI=1S/C2H6/c1-2/h1-2H3"
+        },
+        "vector_representation": [
+            0.22,
+            0.44,
+            0.66,
+            0.88
+        ],
+        "reactions": [
+            {
+                "reaction_id": "reaction002",
+                "role": "reactant",
+                "description": "Combustion of ethane"
+            }
+        ]
+    },
+    {
+        "_id": "molecule003",
+        "name": "Propane",
+        "formula": "C3H8",
+        "molecular_weight": 44.1,
+        "properties": {
+            "boiling_point": "-42.1\u00b0C",
+            "melting_point": "-187.7\u00b0C",
+            "density": "2.009 g/L"
+        },
+        "structure": {
+            "smile": "CCC",
+            "inchi": "InChI=1S/C3H8/c1-3-2/h3H2,1-2H3"
+        },
+        "vector_representation": [
+            0.32,
+            0.54,
+            0.76,
+            0.98
+        ],
+        "reactions": [
+            {
+                "reaction_id": "reaction003",
+                "role": "reactant",
+                "description": "Combustion of propane"
+            }
+        ]
+    }
+]

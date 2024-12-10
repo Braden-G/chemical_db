@@ -1,0 +1,132 @@
+[
+    {
+        "_id": "element001",
+        "name": "Hydrogen",
+        "symbol": "H",
+        "atomic_number": 1,
+        "atomic_weight": 1.008,
+        "properties": {
+            "melting_point": "-259.16°C",
+            "boiling_point": "-252.87°C",
+            "density": "0.08988 g/L"
+        },
+        "category": "Nonmetal"
+    },
+    {
+        "_id": "element002",
+        "name": "Helium",
+        "symbol": "He",
+        "atomic_number": 2,
+        "atomic_weight": 4.0026,
+        "properties": {
+            "melting_point": "Not applicable",
+            "boiling_point": "-268.93°C",
+            "density": "0.1786 g/L"
+        },
+        "category": "Noble Gas"
+    },
+    {
+        "_id": "element003",
+        "name": "Lithium",
+        "symbol": "Li",
+        "atomic_number": 3,
+        "atomic_weight": 6.94,
+        "properties": {
+            "melting_point": "180.5°C",
+            "boiling_point": "1342°C",
+            "density": "0.534 g/cm³"
+        },
+        "category": "Alkali Metal"
+    },
+    {
+        "_id": "element004",
+        "name": "Carbon",
+        "symbol": "C",
+        "atomic_number": 6,
+        "atomic_weight": 12.011,
+        "properties": {
+            "melting_point": "3550°C",
+            "boiling_point": "4027°C",
+            "density": "2.267 g/cm³"
+        },
+        "category": "Nonmetal"
+    },
+    {
+        "_id": "element005",
+        "name": "Nitrogen",
+        "symbol": "N",
+        "atomic_number": 7,
+        "atomic_weight": 14.007,
+        "properties": {
+            "melting_point": "-210.1°C",
+            "boiling_point": "-195.8°C",
+            "density": "1.251 g/L"
+        },
+        "category": "Nonmetal"
+    },
+    {
+        "_id": "element006",
+        "name": "Oxygen",
+        "symbol": "O",
+        "atomic_number": 8,
+        "atomic_weight": 15.999,
+        "properties": {
+            "melting_point": "-218.79°C",
+            "boiling_point": "-182.96°C",
+            "density": "1.429 g/L"
+        },
+        "category": "Nonmetal"
+    },
+    {
+        "_id": "element007",
+        "name": "Sodium",
+        "symbol": "Na",
+        "atomic_number": 11,
+        "atomic_weight": 22.990,
+        "properties": {
+            "melting_point": "97.8°C",
+            "boiling_point": "883°C",
+            "density": "0.971 g/cm³"
+        },
+        "category": "Alkali Metal"
+    },
+    {
+        "_id": "element008",
+        "name": "Magnesium",
+        "symbol": "Mg",
+        "atomic_number": 12,
+        "atomic_weight": 24.305,
+        "properties": {
+            "melting_point": "650°C",
+            "boiling_point": "1090°C",
+            "density": "1.738 g/cm³"
+        },
+        "category": "Alkaline Earth Metal"
+    },
+    {
+        "_id": "element009",
+        "name": "Aluminum",
+        "symbol": "Al",
+        "atomic_number": 13,
+        "atomic_weight": 26.982,
+        "properties": {
+            "melting_point": "660.32°C",
+            "boiling_point": "2519°C",
+            "density": "2.70 g/cm³"
+        },
+        "category": "Post-Transition Metal"
+    },
+    {
+        "_id": "element010",
+        "name": "Silicon",
+        "symbol": "Si",
+        "atomic_number": 14,
+        "atomic_weight": 28.085,
+        "properties": {
+            "melting_point": "1414°C",
+            "boiling_point": "3265°C",
+            "density": "2.33 g/cm³"
+        },
+        "category": "Metalloid"
+    }
+]
